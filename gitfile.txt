@@ -1,2 +1,5 @@
 Showing the head changes
 adding a newline of text from bugfix master 
+we working on git 
+its a bright sunny day 
+trying to figure this out 
