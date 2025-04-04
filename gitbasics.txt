@@ -2,4 +2,4 @@ Welcome To Sweettooth
 We are specailed in Devops Classes and this is the first hands on git class 
 taught by master Sweets 
 We hope you have a great learning experience 
-its going to be a wonderful day 
+ 
