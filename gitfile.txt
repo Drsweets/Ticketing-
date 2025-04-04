@@ -1,1 +1,2 @@
 Showing the head changes
+adding a newline of text from bugfix master 
